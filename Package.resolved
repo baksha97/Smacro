@@ -1,5 +1,5 @@
 {
-  "originHash" : "4731184ec4a80a973473c2be084d3fdca30162248d8b3384bf8d7ae0fdceabdf",
+  "originHash" : "cd341a52a9857162d9fcfdf84431f7d7a7b406a6606182805f39ccba43ecb945",
   "pins" : [
     {
       "identity" : "aexml",
@@ -17,6 +17,42 @@
       "state" : {
         "revision" : "707e4ccc4b1c7e48e881cd5ea91e493a95df24bf",
         "version" : "0.0.6"
+      }
+    },
+    {
+      "identity" : "asynchrone",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/reddavis/Asynchrone",
+      "state" : {
+        "revision" : "1ddfcd3bc93277f68dffb793fc60001902f2517b",
+        "version" : "0.22.0"
+      }
+    },
+    {
+      "identity" : "colorizer",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/getGuaka/Colorizer.git",
+      "state" : {
+        "revision" : "2ccc99bf1715e73c4139e8d40b6e6b30be975586",
+        "version" : "0.2.1"
+      }
+    },
+    {
+      "identity" : "combinex",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/cx-org/CombineX",
+      "state" : {
+        "revision" : "98096c6b2a51481cb6e4bae8da0a808d8cab09a1",
+        "version" : "0.4.0"
+      }
+    },
+    {
+      "identity" : "command",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tuist/Command.git",
+      "state" : {
+        "revision" : "fc3b61c9fd1341f7856d0e8d4fa59fa0b209e20f",
+        "version" : "0.2.0"
       }
     },
     {
@@ -38,12 +74,30 @@
       }
     },
     {
+      "identity" : "path",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tuist/Path",
+      "state" : {
+        "revision" : "61e3fa3b2fd56e0bd2496afd62a35c2cb98a6fca",
+        "version" : "0.2.0"
+      }
+    },
+    {
       "identity" : "pathkit",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/kylef/PathKit.git",
       "state" : {
         "revision" : "3bfd2737b700b9a36565a8c94f4ad2b050a5e574",
         "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "perfect-iniparser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/PerfectlySoft/Perfect-INIParser.git",
+      "state" : {
+        "revision" : "0952aac9ca54324ff25191569fd9c48eec424772",
+        "version" : "3.0.2"
       }
     },
     {
@@ -65,12 +119,48 @@
       }
     },
     {
-      "identity" : "swiftcli",
+      "identity" : "swift-argument-parser",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/jakeheis/SwiftCLI.git",
+      "location" : "https://github.com/apple/swift-argument-parser",
       "state" : {
-        "revision" : "2e949055d9797c1a6bddcda0e58dada16cc8e970",
-        "version" : "6.0.3"
+        "revision" : "46989693916f56d1186bd59ac15124caef896560",
+        "version" : "1.3.1"
+      }
+    },
+    {
+      "identity" : "swift-atomics",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-atomics.git",
+      "state" : {
+        "revision" : "3e95ba32cd1b4c877f6163e8eea54afc4e63bf9f",
+        "version" : "0.0.3"
+      }
+    },
+    {
+      "identity" : "swift-system",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-system.git",
+      "state" : {
+        "revision" : "f9266c85189c2751589a50ea5aec72799797e471",
+        "version" : "1.3.0"
+      }
+    },
+    {
+      "identity" : "swift-tools-support-core",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-tools-support-core",
+      "state" : {
+        "revision" : "3b13e439a341bbbfe0f710c7d1be37221745ef1a",
+        "version" : "0.6.1"
+      }
+    },
+    {
+      "identity" : "swiftterminal",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tuist/SwiftTerminal",
+      "state" : {
+        "revision" : "2fe93a0446a02caff22d32e9062dc33038c26b27",
+        "version" : "0.15.0"
       }
     },
     {
@@ -83,12 +173,30 @@
       }
     },
     {
+      "identity" : "xcbeautify",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/cpisciotta/xcbeautify",
+      "state" : {
+        "revision" : "3eceadb5d0f5b3dd99c333356fc85394cab696b3",
+        "version" : "2.3.1"
+      }
+    },
+    {
       "identity" : "xcodeproj",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/tuist/XcodeProj.git",
       "state" : {
         "revision" : "6e60fb55271c80f83a186c9b1b4982fd991cfc0a",
         "version" : "8.13.0"
+      }
+    },
+    {
+      "identity" : "xmlcoder",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/MaxDesiatov/XMLCoder.git",
+      "state" : {
+        "revision" : "b1e944cbd0ef33787b13f639a5418d55b3bed501",
+        "version" : "0.17.1"
       }
     },
     {
