@@ -1,6 +1,6 @@
 # Smacro
 
-Smacro is a command-line interface (CLI) program built with Apple's Swift Argument Parser library. This project serves as a learning tool for understanding how to create Swift CLI programs.
+Smacro is a command-line interface (CLI) program built with Apple's Swift Argument Parser library. This project served as a learning tool for understanding how to create Swift CLI programs 😄
 
 ## Features
 
